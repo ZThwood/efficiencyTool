@@ -58,5 +58,5 @@
 
 ```powershell
 # 启动 ADB 服务并监听 8082 端口
-.\monitor_adb.ps1 -DeviceName "smatek" -Port 8082
+.\monitor_adb.ps1 -DeviceName "thwood" -Port 8082
 ```
